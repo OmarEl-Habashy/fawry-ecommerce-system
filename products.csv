@@ -1,0 +1,7 @@
+name,price,quantity,category,isShippable,weight,productionDate,expirationDays
+TV,999.99,10,NON_ORGANIC,true,7000,,
+Cheese,5.0,100,ORGANIC,true,200,2023-10-01,30
+Scratch Card,10.0,200,NON_ORGANIC,false,0,,
+Laptop,1499.99,5,NON_ORGANIC,true,2500,,
+Book,29.99,50,NON_ORGANIC,true,500,,
+Rice,30.00,120,ORGANIC,true,1000,2025-07-04,365
