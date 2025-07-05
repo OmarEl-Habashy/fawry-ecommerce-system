@@ -55,10 +55,9 @@ src/
 
 ## Getting Started
 
-1. Ensure you have Java installed on your system
-2. Clone this repository
-3. Place your `products.csv` file in the project root directory
-4. Compile and run `Main.java`
+
+-> Make sure you place the `products.csv` file in the project root directory
+
 
 ## Main Menu
 
