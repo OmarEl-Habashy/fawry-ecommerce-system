@@ -110,3 +110,11 @@ The system handles various error cases including:
 
 - Java SE 8 or higher
 - No external libraries required
+
+
+![1](https://github.com/user-attachments/assets/1b40b139-56fe-4f32-b87d-b102c27c7134)
+![2](https://github.com/user-attachments/assets/6a6aefa1-0818-4ccb-a9d9-07aea683cf69)
+![3](https://github.com/user-attachments/assets/1adf26be-0540-48d1-9da9-8921f7da29b0)
+![4](https://github.com/user-attachments/assets/8f9360a8-e2a4-453d-93b9-fd174d8cccf3)
+![5](https://github.com/user-attachments/assets/307425e7-f872-47ef-bc81-8c8620230dda)
+![6](https://github.com/user-attachments/assets/4ad84c1d-6967-4c6f-ab13-a6789e5d96a0)
