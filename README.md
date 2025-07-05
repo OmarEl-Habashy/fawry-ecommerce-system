@@ -53,11 +53,12 @@ src/
 └── Main.java
 ```
 
-## Quick Note
+## Getting Started
 
-
--> Make sure you place the `products.csv` file in the project root directory
-
+1. Clone the repository
+2. Place the `products.csv` file in the project root directory
+3. Compile and run the `Main.java` file
+4. Follow the interactive menu to explore the application features
 
 ## Main Menu
 
@@ -111,10 +112,22 @@ The system handles various error cases including:
 - Java SE 8 or higher
 - No external libraries required
 
+## Application Screenshots
 
-![1](https://github.com/user-attachments/assets/1b40b139-56fe-4f32-b87d-b102c27c7134)
-![2](https://github.com/user-attachments/assets/6a6aefa1-0818-4ccb-a9d9-07aea683cf69)
-![3](https://github.com/user-attachments/assets/1adf26be-0540-48d1-9da9-8921f7da29b0)
-![4](https://github.com/user-attachments/assets/8f9360a8-e2a4-453d-93b9-fd174d8cccf3)
-![5](https://github.com/user-attachments/assets/307425e7-f872-47ef-bc81-8c8620230dda)
-![6](https://github.com/user-attachments/assets/4ad84c1d-6967-4c6f-ab13-a6789e5d96a0)
+![Main Menu](https://github.com/user-attachments/assets/1b40b139-56fe-4f32-b87d-b102c27c7134)
+*Main application menu showing the available options for users*
+
+![Product Selection and test if expired](https://github.com/user-attachments/assets/6a6aefa1-0818-4ccb-a9d9-07aea683cf69)
+*Product selection interface where users can browse and select items and test if it is expired or not - referring to the CSV file with the date and expiration days left*
+
+![Product Selected](https://github.com/user-attachments/assets/1adf26be-0540-48d1-9da9-8921f7da29b0)
+*Selected the product and the quantity and added it to the cart*
+
+![View Cart](https://github.com/user-attachments/assets/8f9360a8-e2a4-453d-93b9-fd174d8cccf3)
+*View Cart and the shipment notice to get an overall view of the total payment if bought*
+
+![Test Exceed Amount in Stock](https://github.com/user-attachments/assets/307425e7-f872-47ef-bc81-8c8620230dda)
+*Customer tries to add some quantity that exceeds the original stock amount and the amount that is in the cart*
+
+![Receipt Generation](https://github.com/user-attachments/assets/4ad84c1d-6967-4c6f-ab13-a6789e5d96a0)
+*Final receipt showing purchase details, shipping costs, and total*
