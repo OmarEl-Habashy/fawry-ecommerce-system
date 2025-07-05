@@ -53,7 +53,7 @@ src/
 └── Main.java
 ```
 
-## Getting Started
+## Quick Note
 
 
 -> Make sure you place the `products.csv` file in the project root directory
